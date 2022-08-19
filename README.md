@@ -1,2 +1,1 @@
-# lab-Text-Analysis-NLP
-lab
+# data-science-lab-6
